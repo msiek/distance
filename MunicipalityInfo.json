@@ -1,0 +1,35 @@
+[
+  {
+    "municipality": "Horry County",
+    "muniaddr": "1302 2nd Ave",
+    "municity": "Conway",
+    "munistate": "SC",
+    "munizip": "29526",
+    "geo": {
+      "lat": 33.832352,
+      "long": -79.049429
+    }
+  },
+  {
+    "municipality": "Georgetown County",
+    "muniaddr": "129 Scaven St",
+    "municity": "Georgetown",
+    "munistate": "SC",
+    "munizip": "29440",
+    "geo": {
+      "lat": 33.366736,
+      "long": -79.281882
+    }
+  },
+  {
+    "municipality": "City of Myrtle Beach",
+    "muniaddr": "937 Broadway St",
+    "municity": "Myrtle Beach",
+    "munistate": "SC",
+    "munizip": "29577",
+    "geo": {
+      "lat": 33.695475,
+      "long": -78.881720
+    }
+  }
+]

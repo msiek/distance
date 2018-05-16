@@ -1,0 +1,13 @@
+[
+  {
+    "companyname": "A&I Fire & Water Restoration",
+    "companyaddr": "1004 8th Ave N",
+    "companycity": "Myrtle Beach",
+    "companystate": "SC",
+    "companyzip": "20577",
+    "geo":{
+      "lat": 33.696651,
+      "long": -78.891116
+    }
+  }
+]
