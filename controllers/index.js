@@ -1,10 +1,8 @@
-const distance = require('../utils/distance');
+const save = require('../utils/distance');
 
 exports.homepage = (req, res) => {
-    const info = distance.array;
-    const timeSave = {timesaved: distance.total.toFixed(2)}
-    res.send(timeSave)
+    res.send('<h1> Please search for a company</h1>')
 };
 exports.company = (req, res) => {
-
-}
+    res.send(save.totalSaved);
+};
